@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    width: 100vw;
+    height: 250px;
+    background-color: rgb(145, 182, 186);
+    
+}
+.nav-item{
+    margin-top: 50px;
+    margin-right: 100px;
+    display: flex;
+    display: inline-block;
+}
+.nav3{
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 20px;
+} 
+.application{
+    display: flex;
+    margin-left: 38vw;
+    font-weight: 100;
+    color: rgb(91, 184, 215);
+    
+}
+.labels{
+    
+}
